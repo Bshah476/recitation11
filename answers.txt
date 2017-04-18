@@ -1,0 +1,9 @@
+1. What is the output of the child process?
+
+p1: x= 2
+p2: x= 1
+
+2. What is the output of the parent process?
+
+p2: x=0
+
